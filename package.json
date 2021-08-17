@@ -1,0 +1,29 @@
+{
+  "name": "smsing_awslib",
+  "version": "1.0.0",
+  "description": "AllexJS lib for sending SMSes over AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "dependencies": {
+    "aws-sdk": "2.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:smsing-libs/aws.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "communication",
+    "smsing",
+    "aws",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smsing-libs/aws/issues"
+  },
+  "homepage": "https://github.com/smsing-libs/aws#readme"
+}
